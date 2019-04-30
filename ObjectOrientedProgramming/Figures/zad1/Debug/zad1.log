@@ -1,0 +1,12 @@
+﻿Build started 10.7.2014 г. 11:22:25 ч..
+     1>Project "C:\Users\Dichev\Desktop\zad1\zad1\zad1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\zad1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Drink.cpp
+         Drink.cpp
+     1>c:\users\dichev\desktop\zad1\zad1\drink.h(14): error C3861: 'strcmp': identifier not found
+     1>c:\users\dichev\desktop\zad1\zad1\drink.h(18): error C3861: 'strcmp': identifier not found
+     1>Done Building Project "C:\Users\Dichev\Desktop\zad1\zad1\zad1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.11
